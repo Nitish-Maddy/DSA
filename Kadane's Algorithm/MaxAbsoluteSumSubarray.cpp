@@ -32,3 +32,4 @@ int main() {
     cout << obj.maxAbsoluteSum(nums) << endl;
     return 0;
 }
+
